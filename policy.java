@@ -1,1 +1,5 @@
-class Policy{}
+class Policy{
+	void fun(){
+	
+	}
+}
